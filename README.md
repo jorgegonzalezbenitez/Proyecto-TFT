@@ -10,7 +10,7 @@ Colaboración con grupo hotelero en Gran Canaria · Metodología CRISP-DM
 Este proyecto se ha desarrollado en colaboración con un grupo hotelero real. Para proteger la identidad de la empresa y la confidencialidad de sus datos operativos, se han aplicado las siguientes medidas de anonimización:
 
 - Los hoteles se identifican como **Hotel 1**, **Hotel 2** y **Hotel 3** a lo largo de todo el código, la documentación y el dashboard.
-- Los canales de distribución y turoperadores se identifican mediante **alias de una o dos letras** (por ejemplo, `B`, `WEL`, `J`, `TU`), sin ninguna referencia a sus nombres reales.
+- Los canales de distribución y turoperadores se identifican mediante **alias de una o dos letras** (por ejemplo, `B`, `WEL`, `J`, `T`), sin ninguna referencia a sus nombres reales.
 - Los datasets originales no se incluyen en este repositorio. Todos los archivos de datos utilizados en el pipeline han sido previamente anonimizados.
 - Las rutas, variables y nombres de archivos en el código no contienen ningún identificador real del grupo hotelero.
 
