@@ -1,0 +1,14 @@
+# Datos grandes
+data/raw/
+data/processed/livvo_clean_parts_v2
+data/processed/livvo_clean_all_v2.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Sistema
+Thumbs.db
+.DS_Store
