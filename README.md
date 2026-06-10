@@ -128,4 +128,4 @@ La página de **Forecast 2026** presenta los KPIs del escenario seleccionado y u
 
 Jorge González Benítez  
 Grado en Ciencia e Ingeniería de Datos · ULPGC  
-Curso 2024–2025
+Curso 2025-2026
